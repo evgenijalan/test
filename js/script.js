@@ -1,3 +1,6 @@
-var money;
-var time;
-alert(time);
+"use strict";
+
+let o = {};
+
+console.log(o);
+
